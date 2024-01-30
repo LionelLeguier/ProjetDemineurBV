@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cksg/RtrQoSbAeBk0XsCNhNI09HrR8NqnP4+XLky8s9H6Vmfh3wgt/BxubrZ56FN+VZZ3y3tUWNdV93NQf4Oag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lione\\Desktop\\ProjetSaeDemineurVb - Copie\\ProjetSaeDemineurVb.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lione\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\lione\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lione\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lione\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
